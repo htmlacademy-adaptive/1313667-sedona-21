@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Check status][check-image]][check-url]
 
 * Студент: [Александр Переверзев](https://up.htmlacademy.ru/adaptive/21/user/1313667).
-* Наставник: `Неизвестно`.
+* Наставник: [Мария Наг](https://htmlacademy.ru/profile/id47061).
 
 ---
 
